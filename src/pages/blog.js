@@ -1,7 +1,7 @@
 import React from "react";
 import { Layout } from '../containers/Layout';
 import { graphql } from "gatsby";
-import PostLink from '../components/PostLink';
+import PostLink from '../component/PostLink';
 
 export default ({
     data: {
